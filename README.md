@@ -1,4 +1,4 @@
-## Opa! Eu sou o Felipe Carvalho.
+## Olá! Eu sou o Felipe Carvalho.
 
 - 👨🏾‍🎓 Cursando Analise e Desenvolvimento de Sistemas
 - 🌱 Aprendendo Java, Spring boot e Banco de dados relacional
